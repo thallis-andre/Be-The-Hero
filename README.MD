@@ -26,11 +26,14 @@ Be the hero is an application that which aims to integrate ONGs with people who 
 The project was developed in the week omnistack 11.0 <a href="https://rocketseat.com.br">Rocketseat</a>
 
 <p align="center">
-  <img src=".github/login.png" width="50%" height="50%">
-  <img src=".github/pofile.png" width="50%" height="50%">
-  <img src=".github/incident.png" width="50%" height="50%">
-  <img src=".github/mobileList.jpg" width="50%" height="50%">
-  <img src=".github/mobileDetail.jpg" width="50%" height="50%">
+    <img src=".github/login.png" width="50%" height="50%">
+    <img src=".github/Incident.png" width="50%" height="50%">
+    <img src=".github/profile.png" width="50%" height="50%">
+
+  <div style="display: inline-block; margin: 0 auto;">
+    <img src=".github/mobileList.jpg" width="45%" height="45%">
+    <img src=".github/mobileDetail.jpg" width="45%" height="45%">
+  </div>
 </p>
 
 ## :hammer: Technology
